@@ -7,9 +7,9 @@ pytest-cov==7.1.0
 pytest-asyncio==1.4.0
 
 # Code quality
-black==26.5.1
-ruff==0.16.5
-mypy==2.3.1
+black==26.10.1
+ruff==0.17.0
+mypy==2.4.0
 pre-commit==4.6.2
 
 # Documentation
@@ -17,5 +17,5 @@ mkdocs==1.6.1
 mkdocs-material==9.7.7
 
 # Type stubs
-types-PyYAML==6.0.12.20260815
+types-PyYAML==6.0.12.20260906
 types-requests==2.33.0.20260906
