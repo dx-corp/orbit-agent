@@ -10,7 +10,7 @@ pytest-asyncio==1.4.0
 black==26.10.1
 ruff==0.17.0
 mypy==2.4.0
-pre-commit==4.6.2
+pre-commit==4.7.0
 
 # Documentation
 mkdocs==1.6.1
