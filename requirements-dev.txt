@@ -18,4 +18,4 @@ mkdocs-material==9.7.7
 
 # Type stubs
 types-PyYAML==6.0.12.20260906
-types-requests==2.33.0.20260906
+types-requests==2.33.0.20261006
