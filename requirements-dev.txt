@@ -4,7 +4,7 @@
 # Testing
 pytest==9.1.1
 pytest-cov==7.1.0
-pytest-asyncio==1.4.0
+pytest-asyncio==1.4.1
 
 # Code quality
 black==26.10.1
@@ -14,7 +14,7 @@ pre-commit==4.7.0
 
 # Documentation
 mkdocs==1.6.1
-mkdocs-material==9.7.7
+mkdocs-material==9.8.0
 
 # Type stubs
 types-PyYAML==6.0.12.20260906
