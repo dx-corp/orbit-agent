@@ -2,14 +2,14 @@
 -r requirements.txt
 
 # Testing
-pytest==9.1.1
+pytest==9.2.0
 pytest-cov==7.1.0
 pytest-asyncio==1.4.0
 
 # Code quality
 black==26.10.1
-ruff==0.17.0
-mypy==2.4.0
+ruff==0.17.4
+mypy==2.4.1
 pre-commit==4.7.0
 
 # Documentation
